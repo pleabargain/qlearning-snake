@@ -1,3 +1,12 @@
+
+# repo 
+https://github.com/pleabargain/qlearning-snake
+
+# motivation
+I saw someone else's implementation of Q-learning for the snake game and I wanted to try it out for myself. I used claude sonnet 3.7 to help me understand the concepts and then implement it. It got the code right after 2 prompts.
+
+
+
 # Q-Learning: A Guide to Reinforcement Learning in Games and Beyond
 
 ## Table of Contents
